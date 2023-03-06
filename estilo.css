@@ -1,0 +1,5 @@
+/* codigo CSS separado do codigo HTML */
+.texto {
+		color: red;
+		background: orange;
+	}
